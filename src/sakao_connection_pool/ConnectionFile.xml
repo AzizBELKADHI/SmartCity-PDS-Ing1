@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+
+	<entry key="driver">org.postgresql.Driver</entry>
+	<entry key="url">jdbc:postgresql://localhost:5432/SakaoW</entry> 
+	<entry key="login">postgres</entry> 
+	<entry key="password">a</entry> 
+<!--
+	<entry key="driver">org.postgresql.Driver</entry>
+	<entry key="url">jdbc:postgresql://172.31.249.50:5432/sakao_bdd</entry>
+	<entry key="login">sakao_user</entry>
+	<entry key="password">sakao</entry>
+	
+	-->
+</properties>

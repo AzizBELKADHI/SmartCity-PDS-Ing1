@@ -1,0 +1,36 @@
+
+{
+	"operation_type": "INSERT",
+	"target": "tramlinea",
+	"list": [
+		{
+			"coordx": 5.0,
+			"coordy": 1.0
+		},
+		{
+			"coordx": 2.0,
+			"coordy": -1.0
+		},
+		{
+			"coordx": 3.0,
+			"coordy": -3.0
+		},
+				{
+			"coordx": 5.0,
+			"coordy": 1.0
+		},
+				{
+			"coordx": 5.0,
+			"coordy": 1.0
+		},
+				{
+			"coordx": 5.0,
+			"coordy": 1.0
+		},		{
+			"coordx": 5.0,
+			"coordy": 1.0
+		}
+		
+		
+	]
+}

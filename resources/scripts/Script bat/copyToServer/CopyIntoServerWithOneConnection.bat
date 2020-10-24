@@ -1,0 +1,1 @@
+scp ServerSakaoWithOneConnection.jar toto@172.31.249.254:/usr/local/bin/jars/sakao/

@@ -1,0 +1,32 @@
+{
+	"operation_type": "INSERT",
+	"target": "sensor",
+	"list": [
+		{
+			"sensorstate": "work",
+			"sensortype": "Pollution",
+			"idzone": 1,
+			"ipaddress": "192.168.20.31",
+			"macaddress": "FE:00:0L:KS:66:FF",
+			"isinstalled": true
+		},
+		{
+			"sensorstate": "work",
+			"sensortype": "Weather",
+			"idzone": 1,
+			"ipaddress": "192.168.20.32",
+			"macaddress": "FE:00:0L:KS:67:FF",
+			"isinstalled": true
+		},
+		{
+			"sensorstate": "work",
+			"sensortype": "Vehicle",
+			"idzone": 1,
+			"ipaddress": "192.168.20.33",
+			"macaddress": "FE:00:0L:KS:68:FF",
+			"isinstalled": true
+		}
+	]
+}
+
+

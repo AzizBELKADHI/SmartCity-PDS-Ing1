@@ -1,0 +1,12 @@
+{
+	"operation_type": "Update",
+	"target": "vehiclesSensor",
+	"list": [
+		{	
+			"IDVehicleSensor" : 4,
+			"SensorTypeIO": "Output",
+			"NumberOfVehicle": 10
+		}
+		
+	]
+}

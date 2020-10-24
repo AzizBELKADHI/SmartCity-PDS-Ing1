@@ -1,0 +1,90 @@
+{
+	"operation_type": "INSERT",
+	"target": "zone",
+	"list": [
+		{
+			"nexttothezone": "School",
+			"location": "North",
+			"thresholdbeta": 161,
+			"alertstate": false,
+			"idcity": null
+		},
+		{
+			"nexttothezone": "School",
+			"location": "South",
+			"thresholdbeta": 161,
+			"alertstate": false,
+			"idcity": null
+		},
+		{
+			"nexttothezone": "School",
+			"location": "East",
+			"thresholdbeta": 161,
+			"alertstate": false,
+			"idcity": null
+		},{
+			"nexttothezone": "School",
+			"location": "West",
+			"thresholdbeta": 161,
+			"alertstate": false,
+			"idcity": null
+		},
+		{
+			"nexttothezone": "Pedestrian areas",
+			"location": "North",
+			"thresholdbeta": 190,
+			"alertstate": false,
+			"idcity": null
+		},
+		{
+			"nexttothezone": "Pedestrian areas",
+			"location": "South",
+			"thresholdbeta": 190,
+			"alertstate": false,
+			"idcity": null
+		},{
+			"nexttothezone": "Pedestrian areas",
+			"location": "East",
+			"thresholdbeta": 190,
+			"alertstate": false,
+			"idcity": null
+		},
+		{
+			"nexttothezone": "Pedestrian areas",
+			"location": "West",
+			"thresholdbeta": 190,
+			"alertstate": false,
+			"idcity": null
+		},
+		{
+			"nexttothezone": "Dense traffic",
+			"location": "North",
+			"thresholdbeta": 218,
+			"alertstate": false,
+			"idcity": null
+		},
+		{
+			"nexttothezone": "Dense traffic",
+			"location": "South",
+			"thresholdbeta": 218,
+			"alertstate": false,
+			"idcity": null
+		},
+		{
+			"nexttothezone": "Dense traffic",
+			"location": "East",
+			"thresholdbeta": 218,
+			"alertstate": false,
+			"idcity": null
+		},
+		{
+			"nexttothezone": "Dense traffic",
+			"location": "West",
+			"thresholdbeta": 218,
+			"alertstate": false,
+			"idcity": null
+		}
+	]
+}
+
+

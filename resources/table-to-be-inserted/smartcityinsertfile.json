@@ -1,0 +1,17 @@
+{
+	"operation_type": "INSERT",
+	"target": "smartcity",
+	"list": [
+		{
+			"heightkm":15.0,
+			"widthkm":15.0,
+			"budget":15,
+			"astationcost": 1,
+			"name": "sakao"
+			
+		}
+
+		
+		
+	]
+}

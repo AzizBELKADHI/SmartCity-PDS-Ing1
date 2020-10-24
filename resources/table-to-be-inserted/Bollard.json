@@ -1,0 +1,29 @@
+{
+	"operation_type": "INSERT",
+	"target": "Bollard",
+	"list": [
+		{
+			"bollardstate": true,
+			"idzone": 1,
+			"IsInstalled" : false,
+			"Ipaddress" : "1000",
+			"Macaddress" : "100"
+		},
+		{
+			"bollardstate": true,
+			"idzone": 1,
+			"IsInstalled" : false,
+			"Ipaddress" : "1000",
+			"Macaddress" : "100"
+		},
+		{
+			"bollardstate": true,
+			"idzone": 1,
+			"IsInstalled" : false,
+			"Ipaddress" : "1000",
+			"Macaddress" : "100"
+		}
+	]
+}
+
+

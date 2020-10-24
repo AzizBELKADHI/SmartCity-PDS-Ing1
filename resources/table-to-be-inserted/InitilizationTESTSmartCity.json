@@ -1,0 +1,13 @@
+{
+	"operation_type": "Update",
+	"target": "smartcity2",
+	"list": [
+		{	
+			"maxnumbervehicles": 500,
+			"numberofvehicules": 200,
+			"tramfrequency" : 6
+		}
+	]
+}
+
+

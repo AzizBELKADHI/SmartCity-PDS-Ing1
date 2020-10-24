@@ -1,0 +1,23 @@
+{
+	"operation_type": "INSERT",
+	"target": "pollutionsensor",
+	"list": [
+		{
+			"betaaverage": 20.25,
+			"idconfiguration": null,
+			"idsensor": null
+		},
+		{
+			"betaaverage": 28.25,
+			"idconfiguration": null,
+			"idsensor": null
+		},
+		{
+			"betaaverage": 45.25,
+			"idconfiguration": null,
+			"idsensor": null
+		}
+	]
+}
+
+
